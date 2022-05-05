@@ -16,6 +16,7 @@ You are given a word `source` and a list of translations `targets`. Your task is
 
 - Target words may appear horizontally, vertically, or diagonally
 - All code must be written in TypeScript
+- Please use React as well
 
 # Evaluation
 

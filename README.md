@@ -25,3 +25,4 @@ Your code will be evaluated by the following criteria:
 1. Usability: Is it easy to select words with the mouse? Is the UI responsive?
 2. Correctness: Are all the requirements fulfilled?
 3. Cleanliness: Is the code well organized and easily readable?
+

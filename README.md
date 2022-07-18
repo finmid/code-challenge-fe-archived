@@ -2,7 +2,7 @@
 
 The goal of this task is to implement the `Find Challenge`. It's a modification of the [word search game](https://lovattspuzzles.com/online-puzzles-competitions/play-daily-word-search-puzzle-online/). Instead of finding a list of words in the grid, the user needs to find all possible translations of one given word.
 
-# Specification
+## Specification
 
 You are given a word `source` and a list of translations `targets`. Your task is to display the word `source` and a grid of letters that contains all the `targets`. The user's task is to find all the translations in the grid. The user selects a word by clicking on the first letter, dragging the mouse to the last letter, and releasing the mouse; if the user drags the mouse to a letter and then away from it, it should deselect only that specific letter. If 
 
@@ -23,7 +23,11 @@ After all targets have been found, the app should display a new grid and a new s
 - All code must be written in TypeScript.
 - React must be used as well.
 
-# Evaluation
+### Submission:
+
+Please create a private repository and invite us: @n1tsi, @andrecastelo and @thehatsky. We'll try to get back to you within 24 hours of your submission.
+
+## Evaluation
 
 Your code will be evaluated by the following criteria: 
 
@@ -31,7 +35,7 @@ Your code will be evaluated by the following criteria:
 2. Usability: Is it easy to select words with the mouse? Is the UI responsive? Is the UX good?
 3. Code quality: Is the code well organized and easily readable? Is the game logic isolated from the view logic?
 
-## Bonus
+### Bonus
 
 You are not required to tackle these, but if you do we'll take that into consideration:
 - Unit, render, and e2e tests
